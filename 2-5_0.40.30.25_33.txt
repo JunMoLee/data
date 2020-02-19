@@ -1,0 +1,121 @@
+Total SubArray (synaptic core) area=5.0841e-09 m^2
+Total Neuron (neuron peripheries) area=1.2082e-09 m^2
+Total area=6.2923e-09 m^2
+Leakage power of subArrayIH is : 7.1391e-05 W
+Leakage power of subArrayHO is : 1.6238e-05 W
+Leakage power of NeuronIH is : 1.5533e-05 W
+Leakage power of NeuronHO is : 2.4850e-06 W
+Total leakage power of subArray is : 8.7629e-05 W
+Total leakage power of Neuron is : 1.8018e-05 W
+opt: SGD NL_LTP_Gp:2.0 NL_LTD_Gp:-5.0 NL_LTP_Gn:2.0 NL_LTD_Gn:-5.0 CSpP: 64 CSpD: 64 CSnP: 64 CSnD: 64 OnOffGp: 12.5 OnOffGn: 12.5 LAp: 0.40 LAd: 0.30 pLAd: 0.25
+ newUpdateRate(Gp): 3
+ newUpdateRate(Gn): 3
+ RefreshRate: 2000
+ ReverseUpdate: 1
+ FullRefresh: 0
+ Dominance: 1
+Training Epoch : 1
+49.56
+Training Epoch : 2
+63.79
+Training Epoch : 3
+66.27
+Training Epoch : 4
+72.90
+Training Epoch : 5
+81.54
+Training Epoch : 6
+78.91
+Training Epoch : 7
+86.47
+Training Epoch : 8
+84.33
+Training Epoch : 9
+82.04
+Training Epoch : 10
+80.20
+Training Epoch : 11
+81.28
+Training Epoch : 12
+86.30
+Training Epoch : 13
+84.53
+Training Epoch : 14
+79.54
+Training Epoch : 15
+82.07
+Training Epoch : 16
+79.32
+Training Epoch : 17
+84.31
+Training Epoch : 18
+85.43
+Training Epoch : 19
+85.05
+Training Epoch : 20
+81.11
+Training Epoch : 21
+81.58
+Training Epoch : 22
+85.50
+Training Epoch : 23
+82.47
+Training Epoch : 24
+82.26
+Training Epoch : 25
+77.06
+Training Epoch : 26
+83.51
+Training Epoch : 27
+79.89
+Training Epoch : 28
+81.15
+Training Epoch : 29
+78.81
+Training Epoch : 30
+82.11
+Training Epoch : 31
+87.51
+Training Epoch : 32
+82.45
+Training Epoch : 33
+87.17
+Training Epoch : 34
+86.96
+Training Epoch : 35
+82.38
+Training Epoch : 36
+83.07
+Training Epoch : 37
+76.25
+Training Epoch : 38
+83.23
+Training Epoch : 39
+83.62
+Training Epoch : 40
+85.91
+Training Epoch : 41
+77.02
+Training Epoch : 42
+85.27
+Training Epoch : 43
+83.12
+Training Epoch : 44
+84.22
+Training Epoch : 45
+80.66
+Training Epoch : 46
+86.70
+Training Epoch : 47
+82.85
+Training Epoch : 48
+84.72
+Training Epoch : 49
+82.27
+Training Epoch : 50
+85.63
+Training Epoch : 51
+80.98
+Training Epoch : 52
+83.66
+Training Epoch : 53
