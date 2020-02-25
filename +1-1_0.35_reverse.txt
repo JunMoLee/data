@@ -1,0 +1,112 @@
+Total SubArray (synaptic core) area=5.0841e-09 m^2
+Total Neuron (neuron peripheries) area=1.2082e-09 m^2
+Total area=6.2923e-09 m^2
+Leakage power of subArrayIH is : 7.1391e-05 W
+Leakage power of subArrayHO is : 1.6238e-05 W
+Leakage power of NeuronIH is : 1.5533e-05 W
+Leakage power of NeuronHO is : 2.4850e-06 W
+Total leakage power of subArray is : 8.7629e-05 W
+Total leakage power of Neuron is : 1.8018e-05 W
+opt: SGD NL_LTP_Gp:1.0 NL_LTD_Gp:-1.0 NL_LTP_Gn:1.0 NL_LTD_Gn:-1.0 CSpP: 128 CSpD: 128 CSnP: 128 CSnD: 128 OnOffGp: 12.5 OnOffGn: 12.5 LAp: 0.35 LAd: 0.35 pLAd: 0.35
+ newUpdateRate(Gp): 2
+ newUpdateRate(Gn): 2
+ RefreshRate: 2000
+ ReverseUpdate: 1
+ FullRefresh: 0
+ Dominance: 1
+ c2cWeightvariance: 0.00
+Training Epoch : 1
+72.52
+Training Epoch : 2
+85.00
+Training Epoch : 3
+88.90
+Training Epoch : 4
+89.97
+Training Epoch : 5
+88.57
+Training Epoch : 6
+89.94
+Training Epoch : 7
+90.80
+Training Epoch : 8
+90.65
+Training Epoch : 9
+91.56
+Training Epoch : 10
+91.75
+Training Epoch : 11
+89.58
+Training Epoch : 12
+92.22
+Training Epoch : 13
+91.34
+Training Epoch : 14
+92.44
+Training Epoch : 15
+91.25
+Training Epoch : 16
+91.72
+Training Epoch : 17
+89.64
+Training Epoch : 18
+93.06
+Training Epoch : 19
+92.17
+Training Epoch : 20
+92.68
+Training Epoch : 21
+92.79
+Training Epoch : 22
+92.07
+Training Epoch : 23
+92.82
+Training Epoch : 24
+92.20
+Training Epoch : 25
+90.86
+Training Epoch : 26
+92.03
+Training Epoch : 27
+91.90
+Training Epoch : 28
+92.50
+Training Epoch : 29
+92.06
+Training Epoch : 30
+91.41
+Training Epoch : 31
+92.42
+Training Epoch : 32
+91.83
+Training Epoch : 33
+93.37
+Training Epoch : 34
+92.84
+Training Epoch : 35
+92.96
+Training Epoch : 36
+91.58
+Training Epoch : 37
+92.62
+Training Epoch : 38
+92.59
+Training Epoch : 39
+92.00
+Training Epoch : 40
+91.34
+Training Epoch : 41
+91.37
+Training Epoch : 42
+93.07
+Training Epoch : 43
+91.74
+Training Epoch : 44
+92.64
+Training Epoch : 45
+92.35
+Training Epoch : 46
+93.00
+Training Epoch : 47
+92.43
+Training Epoch : 48
