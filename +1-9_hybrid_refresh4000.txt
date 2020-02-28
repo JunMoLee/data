@@ -1,0 +1,269 @@
+Total SubArray (synaptic core) area=5.0841e-09 m^2
+Total Neuron (neuron peripheries) area=1.2082e-09 m^2
+Total area=6.2923e-09 m^2
+Leakage power of subArrayIH is : 7.1391e-05 W
+Leakage power of subArrayHO is : 1.6238e-05 W
+Leakage power of NeuronIH is : 1.5533e-05 W
+Leakage power of NeuronHO is : 2.4850e-06 W
+Total leakage power of subArray is : 8.7629e-05 W
+Total leakage power of Neuron is : 1.8018e-05 W
+opt: SGD NL_LTP_Gp:1.0 NL_LTD_Gp:-9.0 NL_LTP_Gn:1.0 NL_LTD_Gn:-9.0 CSpP: 128 CSpD: 128 CSnP: 128 CSnD: 128 OnOffGp: 12.5 OnOffGn: 12.5 LAp: 0.20 LAd: 0.10 pLAd: 0.10
+ newUpdateRate(Gp): 200
+ newUpdateRate(Gn): 200
+ RefreshRate: 4000
+ ReverseUpdate: 1
+ FullRefresh: 1
+ Dominance: 1
+ c2cWeightvariance: 0.00
+Training Epoch : 1
+19.31
+Training Epoch : 2
+19.50
+Training Epoch : 3
+19.52
+Training Epoch : 4
+19.51
+Training Epoch : 5
+19.46
+Training Epoch : 6
+19.46
+Training Epoch : 7
+19.46
+Training Epoch : 8
+19.40
+Training Epoch : 9
+19.04
+Training Epoch : 10
+19.26
+Training Epoch : 11
+19.18
+Training Epoch : 12
+10.10
+Training Epoch : 13
+10.10
+Training Epoch : 14
+10.10
+Training Epoch : 15
+10.10
+Training Epoch : 16
+10.10
+Training Epoch : 17
+10.10
+Training Epoch : 18
+10.12
+Training Epoch : 19
+10.10
+Training Epoch : 20
+10.16
+Training Epoch : 21
+12.96
+Training Epoch : 22
+11.97
+Training Epoch : 23
+12.49
+Training Epoch : 24
+10.92
+Training Epoch : 25
+29.69
+Training Epoch : 26
+37.68
+Training Epoch : 27
+58.38
+Training Epoch : 28
+74.52
+Training Epoch : 29
+83.14
+Training Epoch : 30
+82.12
+Training Epoch : 31
+86.38
+Training Epoch : 32
+86.91
+Training Epoch : 33
+69.17
+Training Epoch : 34
+83.69
+Training Epoch : 35
+90.83
+Training Epoch : 36
+89.24
+Training Epoch : 37
+88.60
+Training Epoch : 38
+90.63
+Training Epoch : 39
+91.96
+Training Epoch : 40
+72.63
+Training Epoch : 41
+78.31
+Training Epoch : 42
+92.37
+Training Epoch : 43
+91.94
+Training Epoch : 44
+92.53
+Training Epoch : 45
+91.44
+Training Epoch : 46
+92.69
+Training Epoch : 47
+88.90
+Training Epoch : 48
+85.58
+Training Epoch : 49
+91.91
+Training Epoch : 50
+92.95
+Training Epoch : 51
+93.15
+Training Epoch : 52
+92.67
+Training Epoch : 53
+92.33
+Training Epoch : 54
+92.79
+Training Epoch : 55
+92.46
+Training Epoch : 56
+92.90
+Training Epoch : 57
+82.71
+Training Epoch : 58
+92.68
+Training Epoch : 59
+93.51
+Training Epoch : 60
+85.53
+Training Epoch : 61
+92.52
+Training Epoch : 62
+93.08
+Training Epoch : 63
+92.46
+Training Epoch : 64
+92.64
+Training Epoch : 65
+92.34
+Training Epoch : 66
+92.94
+Training Epoch : 67
+89.73
+Training Epoch : 68
+92.52
+Training Epoch : 69
+93.41
+Training Epoch : 70
+93.50
+Training Epoch : 71
+93.57
+Training Epoch : 72
+93.23
+Training Epoch : 73
+85.32
+Training Epoch : 74
+87.43
+Training Epoch : 75
+84.79
+Training Epoch : 76
+93.24
+Training Epoch : 77
+93.45
+Training Epoch : 78
+92.99
+Training Epoch : 79
+93.38
+Training Epoch : 80
+93.49
+Training Epoch : 81
+80.31
+Training Epoch : 82
+93.05
+Training Epoch : 83
+93.44
+Training Epoch : 84
+92.99
+Training Epoch : 85
+93.33
+Training Epoch : 86
+93.84
+Training Epoch : 87
+93.03
+Training Epoch : 88
+93.15
+Training Epoch : 89
+93.75
+Training Epoch : 90
+92.67
+Training Epoch : 91
+93.07
+Training Epoch : 92
+92.81
+Training Epoch : 93
+93.04
+Training Epoch : 94
+92.78
+Training Epoch : 95
+92.67
+Training Epoch : 96
+88.81
+Training Epoch : 97
+85.53
+Training Epoch : 98
+88.03
+Training Epoch : 99
+93.77
+Training Epoch : 100
+93.35
+Training Epoch : 101
+93.64
+Training Epoch : 102
+93.95
+Training Epoch : 103
+93.73
+Training Epoch : 104
+93.91
+Training Epoch : 105
+93.80
+Training Epoch : 106
+89.15
+Training Epoch : 107
+93.86
+Training Epoch : 108
+92.53
+Training Epoch : 109
+93.68
+Training Epoch : 110
+93.96
+Training Epoch : 111
+94.16
+Training Epoch : 112
+93.58
+Training Epoch : 113
+93.65
+Training Epoch : 114
+93.49
+Training Epoch : 115
+93.16
+Training Epoch : 116
+94.01
+Training Epoch : 117
+93.85
+Training Epoch : 118
+93.49
+Training Epoch : 119
+93.68
+Training Epoch : 120
+93.47
+Training Epoch : 121
+93.12
+Training Epoch : 122
+93.48
+Training Epoch : 123
+93.90
+Training Epoch : 124
+93.84
+Training Epoch : 125
+93.54
+
+
